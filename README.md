@@ -1,5 +1,5 @@
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Romi%20Volkovich&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20AI%20Applications&descSize=20&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Romi%20Volkovich&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=DevOps%20%26%20AI%20Systems%20Engineer&descSize=20&descAlignY=75" width="100%"/>
 
 <!-- Typing Animation -->
 <div align="center">
