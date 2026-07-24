@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AI+Implementation+in+Secure+Environments;CI%2FCD+%7C+Automation+%7C+Infrastructure;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AI+Implementation+in+Secure+Environments;CI%2FCD+%7C+Automation+%7C+Infrastructure" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -11,7 +11,7 @@
 <!-- About Me -->
 ## 👩‍💻 About Me
 
-- 🔧 **DevOps Engineer** — building and maintaining infrastructure, CI/CD pipelines, and automation for 3 years
+- 🔧 **DevOps Engineer** — building and maintaining infrastructure, CI/CD pipelines, and automation
 - 🤖 Implementing **AI solutions in secure, air-gapped environments** — focusing on the application side of production-ready models
 - ☁️ Working with **OpenShift**, **AWS**, and **Linux**-based systems
 - 🏗️ Passionate about **infrastructure setup** and **system architecture**
@@ -36,20 +36,6 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AI](https://img.shields.io/badge/AI%20Implementation-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
-</div>
-
-<br/>
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=romivol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romivol&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=romivol&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
