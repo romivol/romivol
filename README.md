@@ -11,7 +11,7 @@
 <!-- About Me -->
 ## 👩‍💻 About Me
 
-- 🔧 **DevOps Engineer** — building and maintaining infrastructure, CI/CD pipelines, and automation
+- 🔧 **DevOps Engineer** — building and maintaining infrastructure, CI/CD pipelines, and automation for 3 years
 - 🤖 Implementing **AI solutions in secure, air-gapped environments** — focusing on the application side of production-ready models
 - ☁️ Working with **OpenShift**, **AWS**, and **Linux**-based systems
 - 🏗️ Passionate about **infrastructure setup** and **system architecture**
